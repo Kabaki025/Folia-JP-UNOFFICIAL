@@ -1,7 +1,7 @@
 <div align=center>
     <img src="./folia.png">
     <br /><br />
-    <p>専用サーバーにリージョン別マルチスレッディングを追加した、<a href="https://github.com/PaperMC/Paper">Paper</a> のフォークの[フォーク](https://github.com/Kabaki025/Folia-JP-UNOFFICIAL)です。</p>
+    <p>専用サーバーにリージョン別マルチスレッディングを追加した、<a href="https://github.com/PaperMC/Paper">Paper</a> のフォークの<a href="https://github.com/Kabaki025/Folia-JP-UNOFFICIAL">フォーク</a> です。</p>
 </div>
 
 ## もくじ
